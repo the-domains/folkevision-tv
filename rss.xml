@@ -3,10 +3,17 @@
     <channel>
         <title><![CDATA[folkevision.tv]]></title>
         <description><![CDATA[folkevision.tv]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/folkevision-tv/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Sep 2015 03:56:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 06 Sep 2015 03:56:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/folkevision-tv/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Azer folk song: "Türk qızıyam" ('I'm a Türk girl') by Əfsanə Kərimli]]></title>
+            <description><![CDATA[<article><h1>Azer folk song: "Türk qızıyam" ('I'm a Türk girl') by Əfsanə Kərimli</h1><p>Uploaded by ✣ Tengri * Spirit of the Steppe ✣ on 2013-08-10.</p><img src="https://i.ytimg.com/vi/mz3BYHs52ac/hqdefault.jpg"></article>]]></description>
+            <link>https://youtu.be/mz3BYHs52ac</link>
+            <guid isPermaLink="false">1031505b-4a14-4cf3-8d54-43a8a2620bcc</guid>
+            <pubDate>Sun, 06 Sep 2015 03:56:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trio Mandili - Apareka]]></title>
             <description><![CDATA[<article><h1>Trio Mandili - Apareka</h1><img src="https://i.ytimg.com/vi/IbsQJBxICN0/hqdefault.jpg"></article>]]></description>

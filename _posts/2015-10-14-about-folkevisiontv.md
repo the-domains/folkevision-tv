@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-14T20:59:20.125Z'
-dateModified: '2015-10-14T20:59:09.285Z'
+datePublished: '2015-10-14T21:00:23.389Z'
+dateModified: '2015-10-14T21:00:17.840Z'
 title: About Folkevision.tv
 sourcePath: _posts/2015-10-14-about-folkevisiontv.md
 published: true

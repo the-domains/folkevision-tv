@@ -1,5 +1,6 @@
 name: folkevision.tv
 favicon: null
+layout_spectrum: 0.8
 cta:
   domain: null
   bucket: null
@@ -12,4 +13,10 @@ opengraph:
   image: null
   type: null
   appId: null
+color:
+  brandColors: []
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []

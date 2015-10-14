@@ -1,7 +1,8 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=YTkvQnyHGJo'
 inLanguage: en
 starred: false
 keywords:
@@ -16,8 +17,8 @@ keywords:
   - saddleworth
   - '444'
 description: 'The Nutters perform at the Saddleworth Rushcart Weekend,23 August 2009,outside St Chads Church in Uppermill.'
-datePublished: '2015-10-14T20:53:00.142Z'
-dateModified: '2015-10-14T20:52:44.215Z'
+datePublished: '2015-10-14T22:15:51.297Z'
+dateModified: '2015-10-14T22:14:21.606Z'
 author:
   - name: rob jukes
     url: 'https://www.youtube.com/user/ihateyoubutler'
@@ -35,15 +36,14 @@ app_links:
   - url: 'http://www.youtube.com/watch?v=YTkvQnyHGJo&feature=applinks'
     type: web
 title: England / The Britannia Coco-nut Dancers of Bacup
+sourcePath: _posts/2015-10-14-england-the-britannia-coco-nut-dancers-of-bacup.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2015-10-14-england-the-britannia-coco-nut-dancers-of-bacup.md
-published: true
-url: england-the-britannia-coco-nut-dancers-of-bacup/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 

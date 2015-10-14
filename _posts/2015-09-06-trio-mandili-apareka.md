@@ -1,7 +1,8 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=IbsQJBxICN0'
 inLanguage: en
 starred: false
 keywords:
@@ -16,6 +17,8 @@ keywords:
   - jgufi
   - ansambli
 description: ''
+datePublished: '2015-10-14T22:16:27.760Z'
+dateModified: '2015-10-14T22:15:17.821Z'
 author:
   - name: Trio Mandili
     url: 'https://www.youtube.com/user/tatulikaaa1'
@@ -33,8 +36,6 @@ app_links:
   - url: 'http://www.youtube.com/watch?v=IbsQJBxICN0&feature=applinks'
     type: web
 title: Georgia / ტრიო მანდილი - აპარეკა / Trio Mandili - Apareka
-datePublished: '2015-10-14T20:14:10.053Z'
-dateModified: '2015-10-09T11:42:43.616Z'
 sourcePath: _posts/2015-09-06-trio-mandili-apareka.md
 published: true
 authors: []
@@ -43,7 +44,6 @@ publisher:
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-url: georgia-trio-mandili-apareka/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 

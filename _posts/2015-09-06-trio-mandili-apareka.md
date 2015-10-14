@@ -1,5 +1,7 @@
 ---
-isBasedOnUrl: 'https://www.youtube.com/watch?v=IbsQJBxICN0'
+inFeed: true
+hasPage: true
+inNav: false
 inLanguage: en
 starred: false
 keywords:
@@ -13,7 +15,7 @@ keywords:
   - metexi
   - jgufi
   - ansambli
-description: 'Trio Mandili on the iTunes: https://itunes.apple.com/artist/trio-mandili/id1032397126 https://www.facebook.com/trio.mandili Our performances in Bulgaria: Sofia - 24/09/2015, Plovdiv - 25.09.2015 Buy tickets: http://www.ticketpro.bg/jnp/music/1669031-trio-mandili.html'
+description: ''
 author:
   - name: Trio Mandili
     url: 'https://www.youtube.com/user/tatulikaaa1'
@@ -30,17 +32,18 @@ app_links:
     package: com.google.android.youtube
   - url: 'http://www.youtube.com/watch?v=IbsQJBxICN0&feature=applinks'
     type: web
-title: Trio Mandili - Apareka
-datePublished: '2015-09-06T03:56:50.526Z'
-dateModified: '2015-09-04T03:09:26.719Z'
+title: Georgia / ტრიო მანდილი - აპარეკა / Trio Mandili - Apareka
+datePublished: '2015-10-14T20:14:10.053Z'
+dateModified: '2015-10-09T11:42:43.616Z'
+sourcePath: _posts/2015-09-06-trio-mandili-apareka.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2015-09-06-trio-mandili-apareka.md
-published: true
+url: georgia-trio-mandili-apareka/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 

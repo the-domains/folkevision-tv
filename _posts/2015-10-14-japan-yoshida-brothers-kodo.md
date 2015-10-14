@@ -1,7 +1,8 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=Ron17xFNBf0'
 inLanguage: en
 starred: false
 keywords:
@@ -16,8 +17,8 @@ keywords:
   - containnuts
   - shamisen
 description: "Buy this album: http://www.domomusicgroup.com/yoshidabrothers/albums/hishou.php Buy at iTunes (Kodo - Hishou Version): http://itunes.apple.com/us/album/kodo-hishou-version-hishou/id212368097?i=212368266?at=11lMDe Yoshida Brothers website http://www.domomusicgroup.com/yoshidabrothers/index.php Music video of Kodo by Yoshida Brothers. Yoshida Brothers song \"Kodo\" is the theme song for Nintendo's Wii game console. Check out the video! The Song is in include album \"Yoshida Brothers II\" It was released from Domo Music Group."
-datePublished: '2015-10-14T20:28:51.632Z'
-dateModified: '2015-10-14T20:28:32.880Z'
+datePublished: '2015-10-14T22:15:59.653Z'
+dateModified: '2015-10-14T22:14:30.579Z'
 author:
   - name: DomoMusic
     url: 'https://www.youtube.com/user/DomoMusic'
@@ -35,15 +36,14 @@ app_links:
   - url: 'http://www.youtube.com/watch?v=Ron17xFNBf0&feature=applinks'
     type: web
 title: 'Japan / Yoshida Brothers "KODO" 吉田兄弟「鼓動」'
+sourcePath: _posts/2015-10-14-japan-yoshida-brothers-kodo.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2015-10-14-japan-yoshida-brothers-kodo.md
-published: true
-url: japan-yoshida-brothers-kodo/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 

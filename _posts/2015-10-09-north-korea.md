@@ -1,23 +1,23 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'https://youtu.be/gSedE5sU3uc'
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-dateModified: '2015-10-09T11:28:43.611Z'
-datePublished: '2015-10-09T11:29:00.278Z'
+datePublished: '2015-10-14T22:16:07.431Z'
+dateModified: '2015-10-14T22:14:56.971Z'
 title: North Korea
+sourcePath: _posts/2015-10-09-north-korea.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-10-09-north-korea.md
-published: true
-url: north-korea/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 

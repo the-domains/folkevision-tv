@@ -17,8 +17,8 @@ keywords:
   - '2014'
   - '2015'
 description: ''
-datePublished: '2015-12-28T14:25:07.533Z'
-dateModified: '2015-12-28T14:24:52.519Z'
+datePublished: '2015-12-28T17:18:29.700Z'
+dateModified: '2015-12-28T17:18:21.349Z'
 author:
   - name: PRIDESOFHAITI
     url: 'https://www.youtube.com/user/PRIDESOFHAITI'
@@ -48,10 +48,5 @@ _type: VideoObject
 _context: 'http://schema.org'
 
 ---
-# Haiti / Epok Kanaval En Ayiti
-
-PRIDESOFHAITI
-
-This video is about Epok Kanaval En Ayiti Fun Fun Fun
-
 https://youtu.be/Gqu4u-ShyFg
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a035c40f-a9d3-4c5d-8238-9ef3559fd56d.gif)

@@ -1,14 +1,10 @@
 ---
-author:
-  - name: PRIDESOFHAITI
-    url: 'https://www.youtube.com/user/PRIDESOFHAITI'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: youtu.be
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://youtu.be/Gqu4u-ShyFg'
+inLanguage: en
+starred: false
 keywords:
   - duration
   - views
@@ -20,8 +16,14 @@ keywords:
   - plezikanaval
   - '2014'
   - '2015'
-description: This video is about Epok Kanaval En Ayiti Fun Fun Fun
-inLanguage: en
+description: ''
+datePublished: '2015-12-28T14:25:07.533Z'
+dateModified: '2015-12-28T14:24:52.519Z'
+author:
+  - name: PRIDESOFHAITI
+    url: 'https://www.youtube.com/user/PRIDESOFHAITI'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=Gqu4u-ShyFg&feature=applinks'
     type: ios
@@ -33,17 +35,23 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=Gqu4u-ShyFg&feature=applinks'
     type: web
-isBasedOnUrl: 'https://youtu.be/Gqu4u-ShyFg'
-title: Epok Kanaval En Ayiti
-datePublished: '2015-12-13T04:09:26.803Z'
-dateModified: '2015-12-13T04:08:45.434Z'
+title: Haiti / Epok Kanaval En Ayiti
 sourcePath: _posts/2015-12-13-epok-kanaval-en-ayiti.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: youtu.be
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
 ---
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FGqu4u-ShyFg%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGqu4u-ShyFg%26feature%3Dyoutu.be&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FGqu4u-ShyFg%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
+# Haiti / Epok Kanaval En Ayiti
+
+PRIDESOFHAITI
+
+This video is about Epok Kanaval En Ayiti Fun Fun Fun
+
+https://youtu.be/Gqu4u-ShyFg

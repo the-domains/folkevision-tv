@@ -3,20 +3,26 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2015-10-15T16:21:26.664Z'
-dateModified: '2015-10-15T16:20:36.109Z'
+description: >-
+  We started a game where we point to a country on our beach-ball globe, then
+  search YouTube for a folk music or dance video from that region. It's fun to
+  travel to neighboring countries on a little tour.
+datePublished: '2016-08-08T08:00:31.457Z'
+dateModified: '2016-08-08T08:00:30.805Z'
 title: About Folkevision.tv
 sourcePath: _posts/2015-10-14-about-folkevisiontv.md
-published: true
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+author:
+  - name: ''
+    url: ''
+via: {}
+starred: false
 url: about-folkevisiontv/index.html
 _type: WebPage
 
